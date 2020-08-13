@@ -1,0 +1,3 @@
+Estava programando conforme as aulas.
+Tive problemas na aula 107, pq os recursos vieram atualizados, enquanto na aula foi onde voces os modificaram. O q deu certos erros pq o codigo n estava no msm nivel dos recursos.
+
