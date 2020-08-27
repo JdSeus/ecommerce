@@ -341,7 +341,7 @@ class User extends Model {
 
 		$sql = new Sql();
 
-		$results = $sql->select("SELECT * FROM tb_user WHERE deslogin = :deslogin", [
+		$results = $sql->select("SELECT * FROM tb_users WHERE deslogin = :deslogin", [
 			'deslogin'=>$login
 		]);
 
