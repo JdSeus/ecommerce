@@ -234,7 +234,7 @@ class Cart extends Model {
 		return str_replace(',','.',$value);
 	}
 
-	public static function setMsgErro($msg)
+	public static function setMsgError($msg)
 	{
 
 		$_SESSION[Cart::SESSION_ERROR] = $msg;
